@@ -1,6 +1,8 @@
 # Building a Simple Virtual DOM from Scratch
 
-Live demo: https://codesandbox.io/s/github/ycmjason-talks/2018-11-21-manc-web-meetup-4
+Please read the article about the talk [here](https://dev.to/ycmjason/building-a-simple-virtual-dom-from-scratch-3d05).
+
+Codesandbox demo: https://codesandbox.io/s/github/ycmjason-talks/2018-11-21-manc-web-meetup-4
 
 ## To run
 
